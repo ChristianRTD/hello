@@ -8,7 +8,7 @@ def hello():
 
 @app.route('/uce')
 def uce():
-    return "¡hola amigos universitarios !"
+    return "¡hola amigos  !"
 
 
 if __name__ == '__main__':
